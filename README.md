@@ -1,5 +1,5 @@
 
-### "ToDo" web-application
+# "ToDo" web-application
 
 Fullstack project with React JS and Spring Boot.<br> 
 Create, update or delete your ToDo's
