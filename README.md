@@ -3,8 +3,7 @@
 
 Fullstack project with React JS and Spring Boot.<br> 
 Create, update or delete your ToDo's
-
-
+<hr>
 This project contains links to 2 repositories:
 
 * React JS framework for client side [[FRONTEND]](https://github.com/roman-andriiv/todo-react); <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
