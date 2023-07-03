@@ -1,6 +1,6 @@
 
 # "ToDo" web-application
->AWS Link http://todo-front.s3-website.eu-west-3.amazonaws.com/
+>AWS Link http://todo-front.s3-website.eu-central-1.amazonaws.com
 
 Fullstack project with React JS and Spring Boot.<br> 
 Create, update or delete your ToDo's
